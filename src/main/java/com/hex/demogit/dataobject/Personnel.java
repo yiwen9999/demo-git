@@ -11,4 +11,8 @@ public class Personnel {
         String s = "this is function 1";
     }
 
+    private void f2(){
+        String s = "this is function 2";
+    }
+
 }
